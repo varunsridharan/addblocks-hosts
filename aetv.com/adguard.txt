@@ -10,3 +10,6 @@
 ||aetv.hb.omtrdc.net^$important
 ||omtrdc.net^$important
 ||mktoedge.com^$important
+||ab02.mktoedge.com^$important
+||census.us-east-1.nielsencollections.com^$important
+||imrworldwide^$important
