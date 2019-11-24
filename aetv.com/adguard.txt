@@ -1,0 +1,11 @@
+# Adds Block List For AETV.com
+# Last Updated On : 24-11-2019 
+# Created By : varunsridharan
+||g13.v.fwmrm.net^$important
+||fp4.ads.stickyadstv.com.akadns.net^$important
+||fwmrm.net^
+||moatads.com^
+||omtrdc.net^
+||aetn.com.ssl.d1.sc.omtrdc.net^$important
+||aetv.hb.omtrdc.net^$important
+||omtrdc.net^$important
