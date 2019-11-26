@@ -6,13 +6,13 @@
 ||fwmrm.net^
 ||moatads.com^
 ||omtrdc.net^
-#||aetn.com.ssl.d1.sc.omtrdc.net^$important
-#||aetv.hb.omtrdc.net^$important
-#||omtrdc.net^$important
+||aetn.com.ssl.d1.sc.omtrdc.net^$important
+||aetv.hb.omtrdc.net^$important
+||omtrdc.net^$important
 ||mktoedge.com^$important
 ||ab02.mktoedge.com^$important
 ||census.us-east-1.nielsencollections.com^$important
 ||imrworldwide^$important
 ||z.moatads.com^$important
 # Check And Remove Below
-#||sourcepoint.mgr.consensu.org^$important
+||sourcepoint.mgr.consensu.org^$important
